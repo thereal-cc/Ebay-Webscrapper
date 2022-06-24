@@ -1,3 +1,4 @@
 # Ebay-Webscrapper
 
-Simple Webscrapping Project using BeautifulSoup4 that scrapes Ebay and Returns a Sorted List of Products from least Expensive to Most Expensive
+Simple Webscrapping Project    
+Uses BeautifulSoup4 to scrape Ebay and Return a Sorted List of Products from least Expensive to Most Expensive
